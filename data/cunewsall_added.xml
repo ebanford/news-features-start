@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cornell Agriculture and Life Sciences News</title>
+    <link>http://www.news.cornell.edu</link>
+    <description>Recent news from Cornell University</description>
+    <language>en-us</language>
+    <copyright>(C) Cornell University</copyright>
+    <webMaster>bms234@cornell.edu</webMaster>
+    <item>
+      <title>2013: Images from a year to remember</title>
+      <link>http://www.new.cornell.edu/stories/Dec12/YIR_2012/index.html</link>
+      <thumb>http://www.new.cornell.edu/stories/Dec12/tn/YIRTN.jpg</thumb>
+      <alt>Big Red Band</alt>
+      <description>Revisit a year of Cornell learning, discovery, engagement and events with a slide show created by University Photography and the Chronicle.</description>
+      <pubDate>Thu, 20 Dec 2012 16:30:10 EST</pubDate>
+    </item>
+    <item>
+      <title>Brand New News Item</title>
+      <link>http://www.newlink.com/new</link>
+      <thumb>http://placekitten2.com/g/200/300</thumb>
+      <alt>itten</alt>
+      <description>id ligula porta felis euismod semper. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum.</description>
+      <pubDate>Thu, 11 Jan 2013 16:26:30 EST</pubDate>
+    </item>
+    <item>
+      <title>Test News Item</title>
+      <link>http://www.example.com</link>
+      <thumb>http://placekitten.com/g/200/300</thumb>
+      <alt>kitten</alt>
+      <description>Vestibulum id ligula porta felis euismod semper. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum.</description>
+      <pubDate>Fri, 04 Jan 2013 12:26:30 EST</pubDate>
+    </item>
+    <item>
+      <title>Willow workshop fires up Northeast bioenergy</title>
+      <link>http://www.news.cornell.edu/stories/Dec12/CALSWillow.html</link>
+      <thumb>http://www.news.cornell.edu/stories/Dec12/tn/CALSWillowTN.jpg</thumb>
+      <alt>willow biofuel</alt>
+      <description>A Dec. 18 workshop on willow biomass heating and biofuels attracted potential growers,  manufacturers of harvesting and biomass heating equipment.</description>
+      <pubDate>Fri, 21 Dec 2012 12:26:30 EST</pubDate>
+    </item>
+    <item>
+      <title>Cornell wins regional economic development funds</title>
+      <link>http://www.news.cornell.edu/stories/Dec12/EconDevFunds.html</link>
+      <thumb>http://www.news.cornell.edu/stories/Dec12/tn/EconFundsTN.jpg</thumb>
+      <alt>LEED planning</alt>
+      <description>To create jobs and support economic growth, Cornell has been awarded funding for three projects in Ithaca and New York City.</description>
+      <pubDate>Fri, 21 Dec 2012 11:49:14 EST</pubDate>
+    </item>
+    <item>
+      <title>Students devise new design, brand for Engaged Cornell center</title>
+      <link>http://ezramagazine.cornell.edu/Update/Dec12/EU.CELR.redesign.html</link>
+      <thumb>http://www.news.cornell.edu/stories/Dec12/tn/RedesignTN.jpg</thumb>
+      <alt>design student</alt>
+      <description>A team of design and environmental analysis seniors has also developed communications and branding strategies to help the center raise its visibility on campus.</description>
+      <pubDate>Fri, 21 Dec 2012 16:30:10 EST</pubDate>
+    </item>
+    <item>
+      <title>One alum's dream of 'giving back' to community</title>
+      <link>http://ezramagazine.cornell.edu/Update/Dec12/EU.Yusuf.Muhammad.html</link>
+      <thumb>http://www.news.cornell.edu/stories/Dec12/tn/MuhammadTN.jpg</thumb>
+      <alt>Yusuf Muhammad</alt>
+      <description>'I want my students to go to college and serve their communities. That's my dream,' says high school teacher Yusuf Abdullah Muhammad, MPS '03.</description>
+      <pubDate>Fri, 21 Dec 2012 16:29:10 EST</pubDate>
+    </item>
+    <item>
+      <title>2012: Images from a year to remember</title>
+      <link>http://www.news.cornell.edu/stories/Dec12/YIR_2012/index.html</link>
+      <thumb>http://www.news.cornell.edu/stories/Dec12/tn/YIRTN.jpg</thumb>
+      <alt>Big Red Band</alt>
+      <description>Revisit a year of Cornell learning, discovery, engagement and events with a slide show created by University Photography and the Chronicle.</description>
+      <pubDate>Thu, 20 Dec 2012 16:30:10 EST</pubDate>
+    </item>
+  </channel>
+</rss>
